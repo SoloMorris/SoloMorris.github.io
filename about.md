@@ -6,7 +6,7 @@ permalink: /about/
 
 <img class="col one right" src="{{ site.baseurl }}/img/profile_1.jpg">
 
-Career started here.. I've obtained these grades. I make games, sometimes I program. 
+Career started here! I've obtained these grades. I make games, sometimes I program. 
 
 So, this might be a good place to list a shorthand CV, or even provide a download to one. Plenty of plugins do this. Some even generate HTML into a PDF preformatted CV. Alternatively, you may want to link to linkedin instead.
 
