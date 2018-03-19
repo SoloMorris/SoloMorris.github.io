@@ -18,7 +18,7 @@ Developing a functioning version of pong, using the skills developed over the co
 Much of the code used in earlier worksheets was repurposed here, but I made attempts to add distinct programming ideas and a simple visual aesthetic to the game.
 Mine was to make use of a class that had a similar function but much lese efficiency than an enumerator (prior to my learning of their existence).
 
-<img: src="{{ site.baseurl }}/img/pong_01.PNG" width="100%">
+<img class="col three" src="{{ site.baseurl }}/img/pong_01.PNG">
 
 The game that came out of this was successful, though with a few issues.
 I learned from each of my mistakes with this project, and I will definitely return to it in the future.

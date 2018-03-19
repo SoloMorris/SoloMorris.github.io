@@ -6,7 +6,7 @@ permalink: /about/
 
 <img class="col one right" src="{{ site.baseurl }}/img/solpic_01.png">
 
-Hello! I'm Sol Morrison. Currently studying Games Technology at the Unversity of the West of England.
+Hello! I'm Sol Morrison. Currently studying Games Technology at the University of the West of England.
 
 place cv
 
