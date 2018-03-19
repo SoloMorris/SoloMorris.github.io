@@ -4,11 +4,11 @@ title: about me
 permalink: /about/
 ---
 
-<img class="col one right" src="{{ site.baseurl }}/img/profile_1.jpg">
+<img class="col one right" src="{{ site.baseurl }}/img/solpic_01.png">
 
-Career started here! I've obtained these grades. I make games, sometimes I program. 
+Hello! I'm Sol Morrison. Currently studying Games Technology at the Unversity of the West of England.
 
-So, this might be a good place to list a shorthand CV, or even provide a download to one. Plenty of plugins do this. Some even generate HTML into a PDF preformatted CV. Alternatively, you may want to link to linkedin instead.
+place cv
 
 <br/>
 <hr/>
