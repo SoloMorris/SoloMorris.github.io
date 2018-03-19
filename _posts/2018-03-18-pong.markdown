@@ -13,12 +13,16 @@ tags:
 
 Pong was a great step forward.
 ==
-
-Developing a functioning version of pong, using the skills developed over the course of my first semester was a challenge that was both incredibly fun to tackle and an amazing learning experience.
-Much of the code used in earlier worksheets was repurposed here, but I made attempts to add distinct programming ideas and a simple visual aesthetic to the game.
-Mine was to make use of a class that had a similar function but much lese efficiency than an enumerator (prior to my learning of their existence).
+Pong was developed in C++, again utilising the ASGE Framework of all of my ESD-related games.
+The goal of pong is to bounce the ball past the enemy's paddle into their side of the screen.
+The game has two primary modes: 1 v 1 PvP, and 1 v 1 PvAI. There is an additional difficulty wherein the AI moves faster than the player.
 
 <img class="col three" src="{{ site.baseurl }}/img/pong_01.PNG">
 
+This version was developed at the end of my first semester, utilising all of the knowledge I had gained up until this point.
 The game that came out of this was successful, though with a few issues.
 I learned from each of my mistakes with this project, and I will definitely return to it in the future.
+
+
+
+
