@@ -23,6 +23,5 @@ This version was developed at the end of my first semester, utilising all of the
 The game that came out of this was successful, though with a few issues.
 I learned from each of my mistakes with this project, and I will definitely return to it in the future.
 
-
-
+<img class="col three" src="{{ site.baseurl }}/img/pong_02.PNG">
 
