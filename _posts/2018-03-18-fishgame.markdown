@@ -13,6 +13,6 @@ tags:
 
 Fish Are Friends, Not Food
 ==
-After coming to university, the first playable "game" that I would create in my Entertainment Software Development module would be a fish game titled "nemogame".
+After coming to university, the first playable game that I would create in my Entertainment Software Development module would be a fish game titled "Nemo Game".
 It is an extremely simple game that makes use of bounding boxes and a clickhandler for the gameplay. The player's goal is to click as many fish as possible in a 30 second match.
- I may come back to this game at a later date, but I believe that leaving a version of this game in its original state would do good as a reminder of how far I've come. 
+

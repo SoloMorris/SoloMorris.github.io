@@ -2,26 +2,27 @@
 layout: post
 title: Pong
 date: 2018-03-18 11:10:00
-description: A step forward.
+description: My first completed game.
 category: newbie
 published: true
 tags: 
 - esd
 - general noise
+- game programming
 - entertainment software development
 ---
 
-Pong was a great step forward.
+Pong.
 ==
-Pong was developed in C++, again utilising the ASGE Framework of all of my ESD-related games.
+Pong was developed in C++, utilising the ASGE framework - standard for all games developed in the Entertainment Software Development module at UWE.
 The goal of pong is to bounce the ball past the enemy's paddle into their side of the screen.
-The game has two primary modes: 1 v 1 PvP, and 1 v 1 PvAI. There is an additional difficulty wherein the AI moves faster than the player.
+The game has two primary modes: 1 v 1 PvP - where one player controls using WASD and the other uses the arrow keys -
+and 1 v 1 PvAI, where the second player is following the ball's movements.  There is an additional difficulty wherein the AI moves faster than the player.
 
 <img class="col three" src="{{ site.baseurl }}/img/pong_01.PNG">
 
 This version was developed at the end of my first semester, utilising all of the knowledge I had gained up until this point.
-The game that came out of this was successful, though with a few issues.
-I learned from each of my mistakes with this project, and I will definitely return to it in the future.
+The game will be uploaded to Itch.io soon.
 
 <img class="col three" src="{{ site.baseurl }}/img/pong_02.PNG">
 
