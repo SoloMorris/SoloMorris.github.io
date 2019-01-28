@@ -17,7 +17,7 @@ tags:
 At the start of this year, we did some research into what jobs were currently available for
 Gameplay Programmers in the UK.
 
-<img class="col three" src="{{ site.baseurl }}/img/Gameplayprogrammingtitle.PNG">
+<img class="col three" src="{{ site.baseurl }}/img/Gameplayprogrammingtitle.png">
 
 Using sites like Indeed.co.uk and Glassdoor.com, we found several jobs going at AAA developers
 such as Sony and Ubisoft, as well as smaller and indie studios.
