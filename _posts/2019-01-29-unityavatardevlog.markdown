@@ -3,7 +3,7 @@ layout: post
 title: Blog - Unity Basic Avatar
 date: 2019-01-29 01:24:00
 description: Demo of a basic Unity Avatar.
-category: Unity
+category: newbie
 published: true
 tags: 
 - gameplay programming
