@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Presentation - Programming Job Research
-date: 2019-01-22 18:35:00
-description: Research into jobs.
+title: Blog - Unity Basic Avatar
+date: 2019-01-29 01:24:00
+description: Demo of a basic Unity Avatar.
 category: newbie
 published: true
 tags: 
@@ -10,9 +10,10 @@ tags:
 - general noise
 - game programming
 - university
+- unity
 ---
 
-<h1> A look into what the industry wants. </h1>
+<h1> Blog - Unity Basic Avatar </h1>
 <br>
 In the below video, I cover my implementation of a basic avatar that can move around and jump.
 
