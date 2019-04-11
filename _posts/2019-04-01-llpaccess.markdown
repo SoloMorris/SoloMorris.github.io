@@ -14,8 +14,8 @@ tags:
 Access my LLP portfolio on itch.io here.
 
 --
-https://afrokatsu.itch.io/haunted-house  
-https://afrokatsu.itch.io/ex-machina
-https://afrokatsu.itch.io/haunted-house
+https://afrokatsu.itch.io/haunted-house,     
+https://afrokatsu.itch.io/ex-machina,   
+https://afrokatsu.itch.io/haunted-house.   
 
 PASSWORD FOR ALL 3: llpgames
