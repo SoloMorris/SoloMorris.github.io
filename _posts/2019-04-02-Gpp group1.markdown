@@ -1,15 +1,14 @@
 ---
 layout: post
-title: Access my LLP documentation
+title: GPP first group blog
 date: 2019-04-01 23:46:00
 description: Lorem Ipsum
 category: newbie
 published: true
 tags: 
-- llp
+- gpp
 - general noise
-- lo
-
+- gameplay programming
 ---
 My first addition to the group project is the player character. Over the course of the project I intend to polish the player character and rectify as many issues as possible that were present in my individidual markings. I will also be handling the combat, which will receive some polish as well.
 
