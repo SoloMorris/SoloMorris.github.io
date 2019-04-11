@@ -1,14 +1,14 @@
 ---
 layout: post
 title: GPP third group blog
-date: 2019-04-01 23:46:00
+date: 2019-04-03 23:46:00
 description: Lorem Ipsum
 category: newbie
 published: true
 tags: 
-- llp
+- gpp
 - general noise
-- lo
+- gameplay programming
 
 --
 My third addition to the group project, being some smaller quality-of-life tweaks to the player to make the experience of playing them feel as polished as possible!

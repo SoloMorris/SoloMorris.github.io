@@ -1,14 +1,14 @@
 ---
 layout: post
 title: GPP fifth group blog
-date: 2019-04-01 23:46:00
+date: 2019-04-09 23:46:00
 description: Lorem Ipsum
 category: newbie
 published: true
 tags: 
-- llp
+- gpp
 - general noise
-- lo
+- gameplay programming
 
 --
 My last contribution to the project, where I spent several hours with the level designer performing iterative testing, providing code and coming up with new

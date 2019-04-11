@@ -6,9 +6,9 @@ description: Lorem Ipsum
 category: newbie
 published: true
 tags: 
-- llp
+- gpp
 - general noise
-- lo
+- gameplay programming
 
 --
 The second addition to the group project is the introduction of a collectible coin, complete with UI tracker and explosive particle effects!!

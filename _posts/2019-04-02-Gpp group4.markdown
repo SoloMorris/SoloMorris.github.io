@@ -1,14 +1,14 @@
 ---
 layout: post
 title: GPP fourth group blog
-date: 2019-04-01 23:46:00
+date: 2019-04-05 23:46:00
 description: Lorem Ipsum
 category: newbie
 published: true
 tags: 
-- llp
+- gpp
 - general noise
-- lo
+- gameplay programming
 
 --
 My secondary contribution to the project, the tutorial level. Gives the player a brief tutorial whilst 
