@@ -2,7 +2,7 @@
 layout: post
 title: Blog - Unity Follow camera
 date: 2019-02-24 23:42:00
-description: Demo of a power up system and basic cutscene logic.
+description: Demo of a basic player-following camera!
 category: newbie
 published: true
 tags: 
