@@ -10,7 +10,7 @@ tags:
 - general noise
 - gameplay programming
 
---
+---
 My last contribution to the project, where I spent several hours with the level designer performing iterative testing, providing code and coming up with new
 uses of old scripts. 
 

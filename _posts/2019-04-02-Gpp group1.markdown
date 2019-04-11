@@ -10,7 +10,7 @@ tags:
 - general noise
 - lo
 
---
+---
 My first addition to the group project is the player character. Over the course of the project I intend to polish the player character and rectify as many issues as possible that were present in my individidual markings. I will also be handling the combat, which will receive some polish as well.
 
 [![blog 1 video](http://img.youtube.com/vi/g5zNsRblmcs/0.jpg)](https://youtu.be/k2Qpa-AD13Q "GPP Group 1")

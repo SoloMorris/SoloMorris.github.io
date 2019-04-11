@@ -10,7 +10,7 @@ tags:
 - general noise
 - gameplay programming
 
---
+---
 My third addition to the group project, being some smaller quality-of-life tweaks to the player to make the experience of playing them feel as polished as possible!
 
 [![blog 1 video](http://img.youtube.com/vi/g5zNsRblmcs/0.jpg)](https://youtu.be/nNd_xXfGft8 "GPP Group 3")
