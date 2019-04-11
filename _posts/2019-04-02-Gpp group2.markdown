@@ -1,0 +1,16 @@
+---
+layout: post
+title: GPP Second group blog
+date: 2019-04-01 23:46:00
+description: Lorem Ipsum
+category: newbie
+published: true
+tags: 
+- llp
+- general noise
+- lo
+
+--
+The second addition to the group project is the introduction of a collectible coin, complete with UI tracker and explosive particle effects!!
+
+[![blog 2 video](http://img.youtube.com/vi/g5zNsRblmcs/0.jpg)](https://youtu.be/BTYKypYC_fI "GPP Group 2")

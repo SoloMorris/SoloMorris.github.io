@@ -1,0 +1,17 @@
+---
+layout: post
+title: GPP fifth group blog
+date: 2019-04-01 23:46:00
+description: Lorem Ipsum
+category: newbie
+published: true
+tags: 
+- llp
+- general noise
+- lo
+
+--
+My last contribution to the project, where I spent several hours with the level designer performing iterative testing, providing code and coming up with new
+uses of old scripts. 
+
+[![blog 5 video](http://img.youtube.com/vi/g5zNsRblmcs/0.jpg)](https://youtu.be/CiQXU3Ngb1U "GPP Group 5")

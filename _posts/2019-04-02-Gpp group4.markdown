@@ -1,0 +1,17 @@
+---
+layout: post
+title: GPP fourth group blog
+date: 2019-04-01 23:46:00
+description: Lorem Ipsum
+category: newbie
+published: true
+tags: 
+- llp
+- general noise
+- lo
+
+--
+My secondary contribution to the project, the tutorial level. Gives the player a brief tutorial whilst 
+showing off some smaller features that I developed, like a player camera lerp into cutscene and a new (non-harming) enemy!
+
+[![blog 1 video](http://img.youtube.com/vi/g5zNsRblmcs/0.jpg)](https://youtu.be/jfe-Z308Hfs "GPP Group 4")
