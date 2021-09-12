@@ -52,7 +52,6 @@
           <li><a href="/index.html" class="smoothScroll">Home</a></li>
           <li><a href="/index.html#about" class="smoothScroll">About</a></li>
           <li><a href="/index.html#portfolio" class="smoothScroll">Portfolio</a></li>
-          <li><a href="/index.html#journal" class="smoothScroll">Blog</a></li>
           <li><a href="/index.html#contact" class="smoothScroll">Contact</a></li>
         </ul>
 
@@ -108,16 +107,24 @@
             Visualising Academia is a proof-of-concept client project developed as part of the Games Research and Development Module.
             The client requested an application that can visualise data from various academic fields.
             The system uses datasets retrieved from the <a href="https://constellate.org">free Constellate API</a> to draw nodes,
-            representing data within the set, and relations between them based on various traits such as author names, publisher and publish year.
-            The colour of nodes and criteria for drawing relation lines can be customised, and the data contained within nodes is displayed
-            when the user clicks on them.
+            representing data within the set, and relations between them based on various traits.
+            <hr>
+
+            The backend parses data from formatted .CSV spreadsheets to create a list of all available articles.
+            When the user enters a search query, the last matched article is used as the Origin to generate a network.
+            In a network every article is checked against the Origin to find any relations, such as Publisher, Author Name or Publish Year.
+            If a node matches it is placed into a sub-network of nodes based on the type of relation to ensure relations
+            are grouped together instead of being positioned randomly. Nodes are all given a sphere collider to ensure no overlap occurs.
+            Once the network is generated, the user is able to freely move about in 3D space and click on nodes.
+
           </p>
           <h2>What did I do?</h2>
           <p>
-            I implemented a scalable system which can take data contained within formatted .csv files and generate
+            I implemented a scalable system which can take data contained within formatted .CSV files and generate
             a pool of GameObjects with LineRenderers connecting those that match. I implemented an interface with several
             text fields the user can fill in to create a search query, which is used as the base of the network.
-            During development I swapped the dataset of 70 entries to one with 1000 and there were almost no issues with the transition. 
+            During development I swapped the dataset of 70 entries to one with over 1000 entries and there were almost no issues with the transition.
+
           </p>
           <h2>Showcase</h2>
           <iframe width="560" height="315" src="https://youtu.be/JN0lNjT5hNE" title="YouTube video player" frameborder="0" 
