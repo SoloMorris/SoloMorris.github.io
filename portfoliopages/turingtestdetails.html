@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Don't Walk By Details </title>
+  <title>Turing Test Details</title>
   <meta content="" name="descriptison">
   <meta content="" name="keywords">
 
@@ -66,11 +66,11 @@
       <div class="container">
 
         <div class="d-flex justify-content-between align-items-center">
-          <h2>Dont Walk By</h2>
+          <h2>Turing Test</h2>
           <ol>
             <li><a href="/index.html">Home</a></li>
-            <li><a href="/index.html#portfolio">Portfolio</a></li>
-            <li>Dont Walk By Details</li>
+            <li><a href="/portfolio.html">Portfolio</a></li>
+            <li>Portfolio Details</li>
           </ol>
         </div>
 
@@ -84,19 +84,20 @@
         <div class="portfolio-details-container">
 
           <div class="owl-carousel portfolio-details-carousel">
-            <img src="../assets/img/portfolio/dontwalkby/dwbcover.jpg" class="img-fluid" alt="">
-            <img src="../assets/img/portfolio/dontwalkby/dwbgameplay_1.jpg" class="img-fluid" alt="">
-            <img src="../assets/img/portfolio/dontwalkby/dwbgameplay_2.jpg" class="img-fluid" alt="">
-            <img src="../assets/img/portfolio/dontwalkby/dwbgameplay_3.jpg" class="img-fluid" alt="">
+            <img src="../assets/img/portfolio/ttest/ttestcover.png" class="img-fluid" alt="">
+            <img src="../assets/img/portfolio/ttest/ttestgameplay_1.png" class="img-fluid" alt="">
+            <img src="../assets/img/portfolio/ttest/ttestgameplay_2.png" class="img-fluid" alt="">
+            <img src="../assets/img/portfolio/ttest/ttestgameplay_3.png" class="img-fluid" alt="">
+            <img src="../assets/img/portfolio/ttest/ttestgameplay_4.png" class="img-fluid" alt="">
           </div>
 
           <div class="portfolio-info">
             <h3>Project information</h3>
             <ul>
               <li><strong>Project Type</strong>: Coursework</li>
-              <li><strong>Start Date</strong>: 21 November, 2019</li>
-              <li><strong>Finish Date</strong>: 12 May, 2020</li>
-              <li><strong>Tools</strong>: Unity, C#, Git</li>
+              <li><strong>Start Date</strong>: 5 January, 2019</li>
+              <li><strong>Finish Date</strong>: 21 February, 2019</li>
+              <li><strong>Tools</strong>: C++, ASGE Framework</li>
             </ul>
           </div>
 
@@ -105,19 +106,33 @@
         <div class="portfolio-description">
           <h2>Summary </h2>
           <p>
-            Don't Walk By is a top-down Lemmings-inspired puzzle game. Each level has a unique layout with various hazards.
-            The player must assign abilities to students to lead the students out of the exit to safety.  
-            This was developed by a cohort of over 40 students for the Commercial Games Development module.
-            Art and audio assets were commissioned externally by the module leaders.
+            Turing Test is a 2D stealth-social game where the player, a rogue android, must escape a facility.
+            On your way, you will need to use tools you find to get past obstacles and deceive guards that find you by engaging them in conversation and convincing them
+            that you are a human. 
 
+            <hr>
            
+            The project was to develop a game  inspired by the <a href="https://www.imdb.com/title/tt0470752/"> 2014 movie Ex-Machina</a>
+             using our lecturer's C++ framework, the AwesomeSauce Game Engine (ASGE). 
+           
+            
+            <hr>
+            Want to play it? The game's itch.io page can be <a href="https://tidygames.itch.io/ex-machina-turing-test">found here.</a>
           </p>
+          <hr>
           <h2>What did I do?</h2>
           <p>
-            I implemented Z-ordering on the grid system to sort 2D sprites based on their y-position in the level.
-            I also designed and implemented the particle systems for the fire hazards.
+            My role was to implement file I/O through the use of .txt files to store all dialogue. (It was not until after the project
+            that I learned the purpose of .JSON and .XML files!)
+            Player dialogue options are split into Low, Neutral or High threat, which decreases, maintains or increases the player's threat level
+            respectively. The dialogue presented by an encounter will change depending on the player's current threat level.
+            Below is an example of a single encounter dialogue tree:
 
+            <img src="../assets/img/portfolio/ttest/ttestdialogue.jpg" class="img-fluid" alt="">
           </p>
+          <h2>Gameplay Demo</h2>
+          <iframe width="640" height="480" src="https://www.youtube.com/embed/cL7V9mW51Zc" title="YouTube video player" frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
       </div>
     </section><!-- End Portfolio Details Section -->
